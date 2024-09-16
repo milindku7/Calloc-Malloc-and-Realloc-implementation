@@ -1,2 +1,2 @@
 # Calloc-Malloc-and-Realloc-implementation
-A personalized implementation of CAlloc, Malloc and Realloc
+A personalized implementation of Calloc, Malloc and Realloc
